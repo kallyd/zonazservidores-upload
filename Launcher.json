@@ -1,0 +1,10 @@
+{   
+	"Version": "1.11",
+	"FileList":"http://179.184.222.23/FileListUpdate/filelist.json",
+	"DownloadUpdate": "http://179.184.222.23/ClientGame/",		
+	"News": [
+		"https://kallyd.github.io/refugioupload/News/0.png",
+		"https://kallyd.github.io/refugioupload/News/1.png",
+		"https://kallyd.github.io/refugioupload/News/2.png"
+	]			
+}
